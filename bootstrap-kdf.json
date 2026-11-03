@@ -1,1 +1,0 @@
-{"cipher":"AES-256-GCM","interval_seconds":300,"kdf":"HKDF-SHA256","network_id":"skynet-pilot","purpose":"public-bootstrap-distribution","schema_version":1}
